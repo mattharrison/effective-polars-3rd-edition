@@ -12,6 +12,10 @@ This repository contains the Jupyter notebook with code examples from the book, 
 
 - [Open the code notebook](github-code.ipynb)
 
+## Data
+
+- [Vehicle fuel economy data](data/vehicles.csv)
+
 ## Get the book
 
 - [Effective Polars at MetaSnake](https://store.metasnake.com/effective-polars)
